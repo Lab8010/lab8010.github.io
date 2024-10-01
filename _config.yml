@@ -3,3 +3,14 @@ description: "A personal blog of an engineer"
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+    - months
+  layouts:
+    month: archive.html
