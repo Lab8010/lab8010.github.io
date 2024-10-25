@@ -2,7 +2,7 @@
 layout: post
 title: "記憶域スペース ダイレクト(S2D)とAzure Stack HCIという2つの用語を整理する"
 date: 2024-10-14
-categories: [ブログ, Microsoft, HCI]
+categories: [blog, Microsoft, HCI]
 ---
 
 # 記憶域スペース ダイレクト(S2D)とAzure Stack HCIという2つの用語を整理する
