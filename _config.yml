@@ -19,15 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: lab8010
-email: lab8010@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This website is a blog by a technical instructor working in the IT industry. 
+  While the primary focus is on technology, there may occasionally be posts about career development or gadgets. 
+  Please think of it as a site that’s a bit spontaneous in nature.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lab8010
 github_username:  lab8010
+linkedin_username: yamato-sakai
 
 # Build settings
 theme: minima
